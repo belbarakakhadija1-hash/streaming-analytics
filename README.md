@@ -15,8 +15,8 @@ Ce projet porte sur l'analyse et la visualisation des habitudes de visionnage de
 ## Technologies utilisées
 
 * Python
-* Pandas / NumPy, si utilisés dans le code
-* Matplotlib / Seaborn, si utilisés pour les visualisations
+* Pandas / NumPy
+* Matplotlib / Seaborn
 * CSV pour les données et résultats
 
 ## Structure du projet
@@ -44,10 +44,14 @@ Les graphiques disponibles illustrent notamment :
 4. Vérifier la présence des fichiers CSV attendus.
 5. Exécuter `code.py`.
 
-## Résultats
+## Principaux résultats
 
-Les résultats et les conclusions doivent être interprétés à partir des données et des graphiques générés par le programme.
-
+- Analyse de la durée moyenne de visionnage.
+- Comparaison du temps de visionnage entre les plateformes.
+- Identification des horaires de visionnage les plus fréquents.
+- Analyse de la répartition des genres.
+- Analyse des habitudes selon les jours et les périodes.
+  
 ## Auteur
 
 Khadija Belbaraka
